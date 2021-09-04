@@ -1,6 +1,6 @@
 # The 2020 Scrum Guide<sup>TM</sup>
 
-This HTML version of the Scrum Guide is a direct port of the November 2020 version available [as a PDF here](docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100).
+This HTML version of the Scrum Guide is a direct port of the November 2020 version available [as a PDF here](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100).
 
 ## Purpose of the Scrum Guide
 
